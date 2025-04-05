@@ -21,4 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ## Time <h2>
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/201654382?v=4" width=115><br><sub>Jéssica Rosa</sub>](https://github.com/Jessrosaa) |
+ [<img loading="lazy" src="https://avatars.githubusercontent.com/u/201654382?v=4" width=115><br><sub>Jéssica Rosa</sub>](https://github.com/Jessrosaa) 
+
+ <img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width=115><br><sub>Alura</sub>
+

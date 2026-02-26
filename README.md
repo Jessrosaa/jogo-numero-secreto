@@ -25,3 +25,5 @@
 
  <img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width=115><br><sub>Alura</sub>
 
+ <img width="115" height="115" alt="image" src="https://github.com/user-attachments/assets/ec49fe72-dea0-42fe-a77d-ea0731e2e61d" /><br><sub>One Oracle Next Education</sub>
+
